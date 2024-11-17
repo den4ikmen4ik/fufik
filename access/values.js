@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "08.04.2003"; // Дата рождения
+var birthdate = "08.04.2002"; // Дата рождения
 var fullname = "Тарасенко Данил Викторович" // ФИО
 var name = "Данил" // Имя
 
